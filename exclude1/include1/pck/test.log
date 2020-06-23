@@ -1,0 +1,32 @@
+2019-09-15 22:38:25,658 - subpck.bahubali - DEBUG - Pizza created: Sicilian ($18) (bahubali.py:10
+2019-09-15 22:38:25,658 - subpck.bahubali - DEBUG - Made 5 Sicilian pizza(s) (bahubali.py:13
+2019-09-15 22:38:25,658 - subpck.bahubali - DEBUG - Ate 4 pizza(s) (bahubali.py:16
+2019-09-15 22:38:25,658 - subpck.prav - DEBUG - 1 (prav.py:8
+2019-09-15 22:38:25,658 - subpck.bahubali - DEBUG - Pizza created: quattro formaggi ($16) (bahubali.py:10
+2019-09-15 22:38:25,658 - subpck.bahubali - DEBUG - Made 2 quattro formaggi pizza(s) (bahubali.py:13
+2019-09-15 22:38:25,658 - subpck.bahubali - DEBUG - Ate 2 pizza(s) (bahubali.py:16
+2019-09-15 22:38:25,658 - __main__ - DEBUG - 2 (main.py:27
+2019-09-17 17:06:45,694 - subpck.bahubali - DEBUG - Pizza created: Sicilian ($18) (bahubali.py:10
+2019-09-17 17:06:45,695 - subpck.bahubali - DEBUG - Made 5 Sicilian pizza(s) (bahubali.py:13
+2019-09-17 17:06:45,695 - subpck.bahubali - DEBUG - Ate 4 pizza(s) (bahubali.py:16
+2019-09-17 17:06:45,695 - subpck.prav - DEBUG - 1 (prav.py:8
+2019-09-17 17:06:45,695 - subpck.bahubali - DEBUG - Pizza created: quattro formaggi ($16) (bahubali.py:10
+2019-09-17 17:06:45,696 - subpck.bahubali - DEBUG - Made 2 quattro formaggi pizza(s) (bahubali.py:13
+2019-09-17 17:06:45,696 - subpck.bahubali - DEBUG - Ate 2 pizza(s) (bahubali.py:16
+2019-09-17 17:06:45,696 - __main__ - DEBUG - 2 (main.py:27
+2019-11-14 17:03:21,200 - subpck.bahubali - DEBUG - Pizza created: Sicilian ($18) (bahubali.py:10
+2019-11-14 17:03:21,202 - subpck.bahubali - DEBUG - Made 5 Sicilian pizza(s) (bahubali.py:13
+2019-11-14 17:03:21,202 - subpck.bahubali - DEBUG - Ate 4 pizza(s) (bahubali.py:16
+2019-11-14 17:03:21,202 - subpck.prav - DEBUG - 1 (prav.py:8
+2019-11-14 17:03:21,202 - subpck.bahubali - DEBUG - Pizza created: quattro formaggi ($16) (bahubali.py:10
+2019-11-14 17:03:21,202 - subpck.bahubali - DEBUG - Made 2 quattro formaggi pizza(s) (bahubali.py:13
+2019-11-14 17:03:21,203 - subpck.bahubali - DEBUG - Ate 2 pizza(s) (bahubali.py:16
+2019-11-14 17:03:21,203 - __main__ - DEBUG - 2 (main.py:27
+2020-01-06 18:12:51,991 - pck.subpck.bahubali - DEBUG - Pizza created: Sicilian ($18) (bahubali.py:10
+2020-01-06 18:12:51,991 - pck.subpck.bahubali - DEBUG - Made 5 Sicilian pizza(s) (bahubali.py:13
+2020-01-06 18:12:51,992 - pck.subpck.bahubali - DEBUG - Ate 4 pizza(s) (bahubali.py:16
+2020-01-06 18:12:51,992 - pck.subpck.prav - DEBUG - 1 (prav.py:8
+2020-01-06 18:12:51,993 - pck.subpck.bahubali - DEBUG - Pizza created: quattro formaggi ($16) (bahubali.py:10
+2020-01-06 18:12:51,993 - pck.subpck.bahubali - DEBUG - Made 2 quattro formaggi pizza(s) (bahubali.py:13
+2020-01-06 18:12:51,994 - pck.subpck.bahubali - DEBUG - Ate 2 pizza(s) (bahubali.py:16
+2020-01-06 18:12:51,994 - __main__ - DEBUG - 2 (<ipython-input-12-cc227fe3ef4a>:9
